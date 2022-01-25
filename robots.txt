@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-konvoi.github.io/mor/sitemap.xml
